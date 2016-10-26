@@ -1,0 +1,28 @@
+
+title: Cristo's Blog
+url: 'http://www.glphp.com'
+baseurl: '/gh-pages' #change it according to your repository name
+
+
+# Enable one of these styles by removing #
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+
+
+#Profile information
+name: Cristo Geng
+tagline: Full Stack Developer
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: cristo.geng@nplusgroup.com
+phone: 012 345 6789
+website: www.glphp.com #do not add http://
+github: albaba1903
+#twitter: '@cristo.geng'
+
